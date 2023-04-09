@@ -1,0 +1,23 @@
+C:\Users\USER\source\repos\Weather Application\bin\Debug\net7.0-windows\Weather Application.exe
+C:\Users\USER\source\repos\Weather Application\bin\Debug\net7.0-windows\Weather Application.deps.json
+C:\Users\USER\source\repos\Weather Application\bin\Debug\net7.0-windows\Weather Application.runtimeconfig.json
+C:\Users\USER\source\repos\Weather Application\bin\Debug\net7.0-windows\Weather Application.dll
+C:\Users\USER\source\repos\Weather Application\bin\Debug\net7.0-windows\Weather Application.pdb
+C:\Users\USER\source\repos\Weather Application\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application_MarkupCompile.cache
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application_MarkupCompile.lref
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.g.resources
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.AssemblyInfo.cs
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.csproj.CopyComplete
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.dll
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\refint\Weather Application.dll
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.pdb
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\Weather Application.genruntimeconfig.cache
+C:\Users\USER\source\repos\Weather Application\obj\Debug\net7.0-windows\ref\Weather Application.dll

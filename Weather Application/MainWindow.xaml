@@ -1,0 +1,33 @@
+﻿<Window x:Class="Weather_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Weather_Application"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Stormyyy.jpg"/>
+        </Grid.Background>
+        <Grid HorizontalAlignment="Left" Height="39" VerticalAlignment="Top" Width="418" Margin="90,80,0,0">
+
+            <Label Content="City :" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontFamily="Calibri" FontSize="20" FontWeight="Bold"/>
+            <TextBox x:Name="labCity" TextWrapping="Wrap" Margin="57,9,92,5" FontFamily="Calibri" Text="Input City" FontSize="20"/>
+            <Button x:Name="btnSearch" Content="Search" Margin="355,4,0,0" RenderTransformOrigin="0.857,0.486" Background="{x:Null}" BorderBrush="White" Foreground="White" FontFamily="Calibri" FontWeight="Bold" FontSize="18" Click="btnSearch_Click" Height="35.04"/>
+        </Grid>
+        <Label Content="Sunrise:" HorizontalAlignment="Left" Margin="90,321,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Calibri" FontSize="20" Height="34" FontWeight="Bold"/>
+        <Label Content="Sunset:" HorizontalAlignment="Left" Margin="90,355,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Calibri" FontSize="20" Height="34" FontWeight="Bold"/>
+        <Label Content="Wind Speed:" HorizontalAlignment="Left" Margin="470,227,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Calibri" FontSize="20" Height="34" FontWeight="Bold"/>
+        <Label Content="Pressure:" HorizontalAlignment="Left" Margin="470,278,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Calibri" FontSize="20" Height="34" FontWeight="Bold"/>
+        <Image x:Name="picIcon" HorizontalAlignment="Left" Height="107" Margin="90,124,0,0" VerticalAlignment="Top" Width="205" Stretch="Fill" OpacityMask="White">
+        </Image>
+        <TextBlock x:Name="labDetails" HorizontalAlignment="Left" Margin="98,266,0,0" TextWrapping="Wrap" Text="Details" VerticalAlignment="Top" FontSize="20" Foreground="White" FontFamily="Calibri"/>
+        <TextBlock x:Name="labSunrise" HorizontalAlignment="Left" Margin="186,326,0,0" TextWrapping="Wrap" Text="N/A" VerticalAlignment="Top" FontSize="20" Foreground="White" FontFamily="Calibri"/>
+        <TextBlock x:Name="labSunset" HorizontalAlignment="Left" Margin="186,365,0,0" TextWrapping="Wrap" Text="N/A" VerticalAlignment="Top" FontSize="20" Foreground="White" FontFamily="Calibri"/>
+        <TextBlock x:Name="labWind" HorizontalAlignment="Left" Margin="628,232,0,0" TextWrapping="Wrap" Text="N/A" VerticalAlignment="Top" FontSize="20" Foreground="White" FontFamily="Calibri"/>
+        <TextBlock x:Name="labPressure" HorizontalAlignment="Left" Margin="628,283,0,0" TextWrapping="Wrap" Text="N/A" VerticalAlignment="Top" FontSize="20" Foreground="White" FontFamily="Calibri" RenderTransformOrigin="1.322,0.561"/>
+        <TextBlock x:Name="labCondition" HorizontalAlignment="Left" Margin="98,237,0,0" TextWrapping="Wrap" Text="Condition" VerticalAlignment="Top" FontSize="20" Foreground="White" FontFamily="Calibri" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
